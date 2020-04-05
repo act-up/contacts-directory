@@ -1,0 +1,10 @@
+{
+    "URL":              "https://www.traderjoes.com/contact-us/product-feedback",
+    "FirstName":        "txtFirstName",
+    "LastName":         "txtLastName",
+    "PhoneNumber":      "txtPhoneNumber",
+    "EmailAddress":     "txtEmailAddress",
+    "TypeOfFeedback":   "ddlFeedBack",
+    "FeedbackOptions":  ["Kudos", "Quality Concerns", "Allergen Inquiry", "Discontinued Product", "Sustainability", "Product Suggestion", "Other"],
+    "Comments":         "txtComments"
+}
